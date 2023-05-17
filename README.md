@@ -2,7 +2,7 @@
 
 This project was inspired by The Odin Project: Full Stack Ruby on Rails curriculum. 
 
-What is bubble sort?
+## What is bubble sort?
 
 Bubble sort is one of the simpler yet processor-intensive sorting methods.
 
