@@ -1,3 +1,9 @@
-# bubble-sort
+# Bubble-Sort
 
-<!-- Build a method #bubble_sort that takes an array and returns a sorted array. It must use the bubble sort methodology (using #sort would be pretty pointless, wouldn’t it?). -->
+This project was inspired by The Odin Project: Full Stack Ruby on Rails curriculum. 
+
+What is bubble sort?
+
+Bubble sort is one of the simpler yet processor-intensive sorting methods.
+
+Each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right. This continues until the array is eventually sorted.
